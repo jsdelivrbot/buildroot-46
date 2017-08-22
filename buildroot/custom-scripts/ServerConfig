@@ -1,0 +1,6 @@
+ #!/bin/sh
+  #
+  # Configuring host communication.
+  #
+  
+/home/server/setUpServer.py &
