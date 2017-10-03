@@ -1,0 +1,1 @@
+cmd_/home/labredes/linuxdistro/hello_world_driver/hello_driver.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/labredes/linuxdistro/hello_world_driver/hello_driver.ko /home/labredes/linuxdistro/hello_world_driver/hello_driver.o /home/labredes/linuxdistro/hello_world_driver/hello_driver.mod.o ;  true
